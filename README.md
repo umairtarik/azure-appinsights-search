@@ -1,2 +1,10 @@
 # azure-appinsights-search
-html based tool for azure app insights search
+html based search for azure app insights using rest API
+
+## Getting Started
+
+### Installation
+
+```
+nuget cli command goes here
+```
