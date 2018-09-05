@@ -8,20 +8,6 @@ This app will provide you to access your azure logs. you just need you applicati
 ```
 nuget cli command goes here
 ```
-## Built With
-
-* [Jquery](https://jquery.com/) - cross-platform JavaScript Library 
-* [Bootstrap v4](https://getbootstrap.com/) - Html Styling
-* [Bootswatch](https://bootswatch.com/) - Boostrap based themes
-* [Tabulator](http://tabulator.info/) - A lightweight, fully featured, interactive table jQuery plugin
-* [Jquey UI Timepicker Addon](http://trentrichardson.com/examples/timepicker/) - Jquery UI based Timepicker Add-on 
-* [Azure App Insights Rest API](https://dev.applicationinsights.io/) - Access all your app's event and metric data using powerful Rest API.
-
-## Authors
-
-Muhammad Umair tarik
-
-Hamza Safdar
 
 ## How it works
 * when you open the file ***app-insights-search.html*** it will load demo key for testing and you screen will be like the below screenshot
@@ -66,6 +52,20 @@ This ***Time Range*** field also have a option named ***custom***. When you sele
 
 ![](images/image8.PNG)
 
+## Authors
+
+Muhammad Umair tarik
+
+Hamza Safdar
+
+## Built With
+
+* [Jquery](https://jquery.com/) - cross-platform JavaScript Library 
+* [Bootstrap v4](https://getbootstrap.com/) - Html Styling
+* [Bootswatch](https://bootswatch.com/) - Boostrap based themes
+* [Tabulator](http://tabulator.info/) - A lightweight, fully featured, interactive table jQuery plugin
+* [Jquey UI Timepicker Addon](http://trentrichardson.com/examples/timepicker/) - Jquery UI based Timepicker Add-on 
+* [Azure App Insights Rest API](https://dev.applicationinsights.io/) - Access all your app's event and metric data using powerful Rest API.
 
 
 
