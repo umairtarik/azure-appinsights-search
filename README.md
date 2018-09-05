@@ -57,13 +57,12 @@ This ***Time Range*** field also have a option named ***custom***. When you sele
 
 ## Authors
 
-* **Umair Tariq** - *Initial work* - (https://github.com/umairtarik)
+* [Umair Tariq](https://github.com/umairtarik) - *Initial work* - 
+* [Hamza Safdar](https://github.com/hamzasafdar01) - *Initial work* 
 
 See also the list of [contributors](https://github.com/umairtarik/azure-appinsights-search/contributors) who participated in this project.
 
-Muhammad Umair tarik
 
-Hamza Safdar
 
 ## Built With
 
