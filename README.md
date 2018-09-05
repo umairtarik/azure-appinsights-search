@@ -57,12 +57,10 @@ This ***Time Range*** field also have a option named ***custom***. When you sele
 
 ## Authors
 
-* [Umair Tariq](https://github.com/umairtarik) - *Initial work* - 
+* [Umair Tariq](https://github.com/umairtarik) - *Initial work* 
 * [Hamza Safdar](https://github.com/hamzasafdar01) - *Initial work* 
 
 See also the list of [contributors](https://github.com/umairtarik/azure-appinsights-search/contributors) who participated in this project.
-
-
 
 ## Built With
 
@@ -73,7 +71,9 @@ See also the list of [contributors](https://github.com/umairtarik/azure-appinsig
 * [Jquey UI Timepicker Addon](http://trentrichardson.com/examples/timepicker/) - Jquery UI based Timepicker Add-on 
 * [Azure App Insights Rest API](https://dev.applicationinsights.io/) - Access all your app's event and metric data using powerful Rest API.
 
+## Tags
 
+appinsights, azure application insights, appinsights search, etc
 
 
 
