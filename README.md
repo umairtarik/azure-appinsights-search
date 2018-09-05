@@ -20,4 +20,54 @@ nuget cli command goes here
 ## Authors
 
 Muhammad Umair tarik
+
 Hamza Safdar
+
+## How it works
+* when you open the file ***app-insights-search.html*** it will load demo key for testing and you screen will be like the below screenshot
+
+![](images/image1.PNG)
+
+* when you click on the button ***select account*** following popup will come.
+
+![](images/image2.PNG)
+
+Here you can add ***Description, application ID and API key*** and click on add. It will then save this to your browser localstorage for further use.
+
+![](images/image3.PNG)
+
+* you can add multiple records here and when you have to select a specific key click on that key *(for selecting)* and then click on the load button on the bottom as shown in the image.
+
+![](images/image4.PNG)
+
+ it will show the Description of added key in the main page and starts searching for the selected events. As it finds out records it will populate table with the data by showing three columns ***TimeStamp,Item Type and the message***
+
+![](images/image1.PNG)
+
+* When you click on any row of a table it will show further details *(depending upon item type)* of the selected row as shown below.
+
+![](images/image5.PNG)
+
+### Other Functions
+
+* Main page have the field named ***Time Range*** *(Default is 12 hours)* from where you can enter the time of which you want to see the records.
+
+This ***Time Range*** field also have a option named ***custom***. When you select this two fields will be visible blow it where you can add the time range and this app will search for the events that occure in this time range.
+
+![](images/image6.PNG)
+
+* It have the field named ***Limit*** *(Default value is 100)* where you can add the number of records you want *e.g: 100,200.. etc*
+
+* It have the field named ***enter text to search*** just below the description field where you can enter key word and this app will bring those records from the azure which have those keywords as shown below in the screenshot. 
+
+![](images/image7.PNG)
+
+* This app have the checkboxes which serves a user that which item type a user wants this app to search for.
+
+![](images/image8.PNG)
+
+
+
+
+
+
