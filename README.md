@@ -1,6 +1,8 @@
 # azure-appinsights-search
 
-A smart html tool for tracking app events and metrics built using Azure AppInsights Rest API.
+A smart html tool for viewing Azure App Insights Data built using Azure AppInsights Rest API. 
+
+*Note: Rest API retrieves data only using appid & apikey. instrument key cannot be used.*
 
 ## Getting Started
 This app will provide you to access your azure logs. you just need you application ID and apikey for that.
