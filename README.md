@@ -2,7 +2,7 @@
 html based search for azure app insights using rest API
 
 ## Getting Started
-
+This app will provide you to access your azure logs without loging in to your azure. you just need you application ID and apikey for that.
 ### Installation
 
 ```
@@ -40,7 +40,7 @@ Here you can add ***Description, application ID and API key*** and click on add.
 
 ![](images/image4.PNG)
 
- it will show the Description of added key in the main page and starts searching for the selected events. As it finds out records it will populate table with the data by showing three columns ***TimeStamp,Item Type and the message***
+ it will show the Description of added key in the main page and starts searching for the selected key. As it finds out records it will populate table with the data by showing three columns ***TimeStamp,Item Type and the message***
 
 ![](images/image1.PNG)
 
