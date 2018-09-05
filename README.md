@@ -17,6 +17,7 @@ nuget cli command goes here
 * [Jquey UI Timepicker Addon](http://trentrichardson.com/examples/timepicker/) - Jquery UI based Timepicker Add-on 
 * [Azure App Insights Rest API](https://dev.applicationinsights.io/) - Access all your app's event and metric data using powerful Rest API.
 
-##Authors
+## Authors
+
 Muhammad Umair tarik
 Hamza Safdar
