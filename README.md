@@ -15,7 +15,7 @@ nuget cli command goes here
 ## How it works
 * when you open the file ***app-insights-search.html*** it will load demo key for testing and you screen will be like the below screenshot
 
-![](images/image1.png)
+![](images/image1.PNG)
 
 * when you click on the button ***select account*** following popup will come.
 
