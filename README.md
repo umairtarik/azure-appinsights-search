@@ -8,8 +8,13 @@ A smart html tool for viewing Azure App Insights Data built using Azure AppInsig
 This app will provide you to access your azure logs. you just need you application ID and apikey for that.
 ### Installation
 
+Package Manager
 ```
-nuget cli command goes here
+Install-Package AppInsights.Search -Version 1.0.0
+```
+.NET CLI
+```
+dotnet add package AppInsights.Search --version 1.0.0	
 ```
 
 ## How it works
