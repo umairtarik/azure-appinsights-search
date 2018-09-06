@@ -4,8 +4,11 @@ A smart html tool for viewing Azure App Insights Data built using Azure AppInsig
 
 ***Note:** Rest API retrieves data only using appid & apikey. instrument key cannot be used.*
 
-## Getting Started
-This app will provide you to access your azure logs. you just need you application ID and apikey for that.
+## Introduction
+This html app provides access to your web app instrumentation data powered by Azure AppInsights. 
+
+Instrumentation data included ***Request, Exception, Trace, Dependency, Availability Sets, Page Views and Custom Events***.
+
 ### Installation
 
 Package Manager
@@ -17,7 +20,7 @@ Install-Package AppInsights.Search -Version 1.0.0
 dotnet add package AppInsights.Search --version 1.0.0	
 ```
 
-## How it works
+## How to use
 * when you open the file ***app-insights-search.html*** it will load demo key for testing and you screen will be like the below screenshot
 
 ![](images/image1.PNG)
