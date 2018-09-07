@@ -4,7 +4,6 @@ A smart html tool for viewing your web application instrumentation data which is
 
 ***Note:** Rest API retrieves data only using appid & apikey. instrument key cannot be used.*
 
-## Introduction
 This html app provides access to your web app instrumentation data powered by Azure AppInsights. 
 
 Instrumentation data included ***Request, Exception, Trace, Dependency, Availability Sets, Page Views and Custom Events***.
@@ -12,6 +11,14 @@ Instrumentation data included ***Request, Exception, Trace, Dependency, Availabi
 ## Demo
 [click here for the demo](http://appinsightssearch.scm.azurewebsites.net)
 
+## Built With
+
+* [Jquery](https://jquery.com/) - cross-platform JavaScript Library 
+* [Bootstrap v4](https://getbootstrap.com/) - Html Styling
+* [Bootswatch](https://bootswatch.com/) - Boostrap based themes
+* [Tabulator](http://tabulator.info/) - A lightweight, fully featured, interactive table jQuery plugin
+* [Jquey UI Timepicker Addon](http://trentrichardson.com/examples/timepicker/) - Jquery UI based Timepicker Add-on 
+* [Azure App Insights Rest API](https://dev.applicationinsights.io/) - Access all your app's event and metric data using powerful Rest API.
 
 ### Installation
 
@@ -24,26 +31,18 @@ Install-Package AppInsights.Search -Version 1.0.0
 dotnet add package AppInsights.Search --version 1.0.0	
 ```
 
-## How to use
+## Using the tool
 * when you open the file ***app-insights-search.html*** it will load demo key for testing and you screen will be like the below screenshot
 
 ![](images/image1.PNG)
 
 * when you click on the button ***select account*** following popup will come.
+* There you can add ***Description, application ID and API key*** and click on add. It will then save this to your browser localstorage for further use.
 
 ![](images/image2.PNG)
 
-Here you can add ***Description, application ID and API key*** and click on add. It will then save this to your browser localstorage for further use.
 
 ![](images/image3.PNG)
-
-* you can add multiple records here and when you have to select a specific key click on that key *(for selecting)* and then click on the load button on the bottom as shown in the image.
-
-![](images/image4.PNG)
-
- it will show the Description of added key in the main page and starts searching for the selected key. As it finds out records it will populate table with the data by showing three columns ***TimeStamp,Item Type and the message***
-
-![](images/image1.PNG)
 
 * When you click on any row of a table it will show further details *(depending upon item type)* of the selected row as shown below.
 
@@ -57,15 +56,8 @@ This ***Time Range*** field also have a option named ***custom***. When you sele
 
 ![](images/image6.PNG)
 
-* It have the field named ***Limit*** *(Default value is 100)* where you can add the number of records you want *e.g: 100,200.. etc*
+* It has a field named ***Limit*** *(Default value is 100)* where you can add the number of records you want *e.g: 100,200.. etc*
 
-* It have the field named ***enter text to search*** just below the description field where you can enter key word and this app will bring those records from the azure which have those keywords as shown below in the screenshot. 
-
-![](images/image7.PNG)
-
-* This app have the checkboxes which serves a user that which item type a user wants this app to search for.
-
-![](images/image8.PNG)
 
 ## Authors
 
@@ -73,15 +65,6 @@ This ***Time Range*** field also have a option named ***custom***. When you sele
 * [Hamza Safdar](https://github.com/hamzasafdar01)
 
 See also the list of [contributors](https://github.com/umairtarik/azure-appinsights-search/contributors) who participated in this project.
-
-## Built With
-
-* [Jquery](https://jquery.com/) - cross-platform JavaScript Library 
-* [Bootstrap v4](https://getbootstrap.com/) - Html Styling
-* [Bootswatch](https://bootswatch.com/) - Boostrap based themes
-* [Tabulator](http://tabulator.info/) - A lightweight, fully featured, interactive table jQuery plugin
-* [Jquey UI Timepicker Addon](http://trentrichardson.com/examples/timepicker/) - Jquery UI based Timepicker Add-on 
-* [Azure App Insights Rest API](https://dev.applicationinsights.io/) - Access all your app's event and metric data using powerful Rest API.
 
 ## Tags
 
