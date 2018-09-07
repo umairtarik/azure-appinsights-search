@@ -1,6 +1,6 @@
 # azure-appinsights-search
 
-A smart html tool for viewing your application instrumentation data powered by Azure AppInsights. It uses App Insights REST API.
+A smart html tool for viewing your web application instrumentation data which is powered by Azure AppInsights. It does this magic using using Azure App Insights REST API.
 
 ***Note:** Rest API retrieves data only using appid & apikey. instrument key cannot be used.*
 
