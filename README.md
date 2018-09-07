@@ -14,7 +14,7 @@ Application Insights is an extensible Application Performance Management (APM) s
 
 ## Demo 
 
-[click here](http://appinsightssearch.scm.azurewebsites.net)
+[click here](http://appinsightssearch.azurewebsites.net)
 
 ## Built With
 
