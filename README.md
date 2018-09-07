@@ -36,6 +36,8 @@ Install-Package AppInsights.Search -Version 1.0.0
 dotnet add package AppInsights.Search --version 1.0.0	
 ```
 
+Package URL: [https://www.nuget.org/packages/AppInsights.Search](https://www.nuget.org/packages/AppInsights.Search)
+
 ## Using the tool
 * when you open the file ***app-insights-search.html*** it will load demo key for testing and you screen will be like the below screenshot
 
