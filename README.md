@@ -12,7 +12,9 @@ Instrumentation data included ***Request, Exception, Trace, Dependency, Availabi
 
 Application Insights is an extensible Application Performance Management (APM) service for web developers building and managing apps on multiple platforms including .NET, Node.js and J2EE, hosted on-premises or in the cloud. It includes powerful analytics tools to help you diagnose issues and to understand what users actually do with your app. It's designed to help you continuously improve performance and usability. [click here for details](https://azure.microsoft.com/en-us/services/application-insights/)
 
-## Demo [click here](http://appinsightssearch.scm.azurewebsites.net)
+## Demo 
+
+[click here](http://appinsightssearch.scm.azurewebsites.net)
 
 ## Built With
 
