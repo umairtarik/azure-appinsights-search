@@ -1,15 +1,18 @@
 # azure-appinsights-search
 
-A smart html tool for viewing your web application instrumentation data which is powered by Azure AppInsights. It does this magic using using Azure App Insights REST API.
+A smart html5 based standalone tool for viewing the instrumentation data when your web app is configured with Azure App Insights. Instrumentation data helps to monitor application health and help you diagnose issues and continuously improve performance and usability all in you live application.
 
-***Note:** Rest API retrieves data only using appid & apikey. instrument key cannot be used.*
-
-This html app provides access to your web app instrumentation data powered by Azure AppInsights. 
+The tool is powered by Application Insights REST API and uses the ***Application ID** and ***API Key***. So using these two parameters, you can leverage to view instrumentation for any of you web applications.
 
 Instrumentation data included ***Request, Exception, Trace, Dependency, Availability Sets, Page Views and Custom Events***.
 
-## Demo
-[click here for the demo](http://appinsightssearch.scm.azurewebsites.net)
+***Note:** Rest API retrieves data only using appid & apikey. instrument key cannot be used.*
+
+## About Azure Application Insights
+
+Application Insights is an extensible Application Performance Management (APM) service for web developers building and managing apps on multiple platforms including .NET, Node.js and J2EE, hosted on-premises or in the cloud. It includes powerful analytics tools to help you diagnose issues and to understand what users actually do with your app. It's designed to help you continuously improve performance and usability. [click here for details](https://azure.microsoft.com/en-us/services/application-insights/)
+
+## Demo [click here](http://appinsightssearch.scm.azurewebsites.net)
 
 ## Built With
 
