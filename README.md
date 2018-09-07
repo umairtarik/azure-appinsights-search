@@ -9,6 +9,10 @@ This html app provides access to your web app instrumentation data powered by Az
 
 Instrumentation data included ***Request, Exception, Trace, Dependency, Availability Sets, Page Views and Custom Events***.
 
+## Demo
+[click here for the demo](http://appinsightssearch.scm.azurewebsites.net)
+
+
 ### Installation
 
 Package Manager
