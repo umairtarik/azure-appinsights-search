@@ -1,6 +1,6 @@
 # azure-appinsights-search
 
-A smart HTML5 based standalone tool for viewing the instrumentation data when your web app is configured with Azure App Insights and without the need for Azure Subscription. Instrumentation data helps to monitor application health and help you diagnose issues and continuously improve performance and usability all in you live application.
+A smart HTML5 based standalone tool for viewing instrumentation data when your web application is configured with Azure AppInsights. This avoids the need for Azure Subscriptions. This instrumentation data helps to monitor your application health, diagnose issues and continuously improve performance and usability all in your live application.
 
 The tool is powered by Application Insights REST API and uses the ***Application ID** and ***API Key***. So using these two parameters, you can leverage to view instrumentation for any of you web applications.
 
