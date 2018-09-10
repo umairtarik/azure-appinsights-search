@@ -2,7 +2,7 @@
 
 A smart HTML5 based standalone tool for viewing instrumentation data when your web application is configured with Azure AppInsights. This avoids the need for Azure Subscriptions. This instrumentation data helps to monitor your application health, diagnose issues and continuously improve performance and usability all in your live application.
 
-The tool is powered by Application Insights REST API and uses the ***Application ID** and ***API Key***. So using these two parameters, you can leverage to view instrumentation for any of you web applications.
+The tool is powered by Application Insights REST API and uses the ***Application ID*** and ***API Key***. So using these two parameters, you can leverage to view instrumentation for any of you web applications.
 
 Instrumentation data included ***Request, Exception, Trace, Dependency, Availability Sets, Page Views and Custom Events***.
 
